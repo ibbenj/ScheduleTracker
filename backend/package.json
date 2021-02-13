@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ibbenj",
+  "license": "all rights reserved",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
