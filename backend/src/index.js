@@ -286,12 +286,3 @@ app.patch("/schedule/:scheduleId1/:scheduleId2/merge", async(req,res) =>{
 })
 
 app.listen(8080)
-
-/*
-//read up on routers - use link to simply code? https://medium.com/better-programming/express-js-routing-1b48f459d43a
-//work on backend - more features
-//Doccumentaiton: http://expressjs.com/en/api.html#express.json
-//Maps: https://javascript.info/map-set, https://www.javascripttutorial.net/es6/javascript-map/
-//req.params: https://stackoverflow.com/questions/8506658/node-js-express-routing-with-get-params
-*/
-//node src/index.js
